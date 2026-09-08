@@ -46,7 +46,7 @@ Vinyl Deskが再生情報やジャケット画像を自動的に外部へ送信�
 
 ## 問い合わせ
 
-このリポジトリのIssues、または次のサポート窓口をご利用ください。
+不具合の報告、改善のアイデア、ご質問は、[Vinyl Deskのお問い合わせ窓口](https://hasu-labs.com/vinyl-desk#contact)からお寄せください。アプリ名入りの件名と記入例を付けたメールを作成できます。改善要望は内容だけでも構いません。このリポジトリのIssuesでも受け付けます。
 
 [hasu.appsdev@gmail.com](mailto:hasu.appsdev@gmail.com)
 
@@ -61,4 +61,4 @@ Issuesは公開されます。パスワードやアカウント情報は記載�
 
 ## Support in English
 
-Please open an issue in this repository or email [hasu.appsdev@gmail.com](mailto:hasu.appsdev@gmail.com). Include your Vinyl Desk version, Windows version, steps to reproduce, and expected versus actual behavior. Issues are public; do not include passwords or private account information.
+Bug reports, feature ideas, and questions are welcome. Visit the [Vinyl Desk contact page (Japanese)](https://hasu-labs.com/vinyl-desk#contact), open an issue in this repository, or email [hasu.appsdev@gmail.com](mailto:hasu.appsdev@gmail.com). Include your Vinyl Desk version, Windows version, steps to reproduce, and expected versus actual behavior. Issues are public; do not include passwords or private account information.
