@@ -20,7 +20,7 @@ GitHub版は電子署名なしのため、Windowsやブラウザーに警告が�
 
 ### Microsoft Store
 
-Microsoft Storeで公開中です。0.1.9への更新申請を準備しています。Storeで配信される版とGitHub版は、一時的にバージョンが異なる場合があります。
+Microsoft Storeで公開中です。0.1.9への更新は申請済みで、現在審査中です。合格後に公開されます。Storeで配信される版とGitHub版は、一時的にバージョンが異なる場合があります。
 
 [Microsoft Storeの商品ページ](https://apps.microsoft.com/detail/9N453BCDK8CD)
 
@@ -77,7 +77,7 @@ Requires Windows 11 (x64) and Spotify for Windows on the same PC. Browser playba
 
 [Download the Windows x64 installer](https://github.com/hasu8202/vinyl-desk/releases/download/v0.1.9/VinylDesk-0.1.9-windows-x64-setup.exe). The GitHub installer is unsigned; Windows or your browser may display a warning. Updates are manual via new installers, not delivered through Microsoft Store.
 
-Vinyl Desk is available on Microsoft Store. The 0.1.9 Store update is being prepared, so versions may temporarily differ between distribution channels. [View the Store listing](https://apps.microsoft.com/detail/9N453BCDK8CD). Screenshots show fictional demo track information.
+Vinyl Desk is available on Microsoft Store. The 0.1.9 Store update has been submitted and is under review; it will publish after certification, so versions may temporarily differ between distribution channels. [View the Store listing](https://apps.microsoft.com/detail/9N453BCDK8CD). Screenshots show fictional demo track information.
 
 Bug reports, feature ideas, and questions are welcome. Visit the [Vinyl Desk contact page (Japanese)](https://hasu-labs.com/vinyl-desk#contact) or email [hasu.appsdev@gmail.com](mailto:hasu.appsdev@gmail.com).
 
